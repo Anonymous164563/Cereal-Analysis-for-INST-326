@@ -4,7 +4,7 @@ import pandas as pd
 #data take from https://www.kaggle.com/datasets/crawford/80-cereals 
 
 print("\nReads the cereal csv file, data take from https://www.kaggle.com/datasets/crawford/80-cereals")
-cereals = pd.read_csv("cereal.csv")   
+cereals = pd.read_csv("data/cereal.csv")   
 
 cereals_Frame = pd.DataFrame(cereals)
 
@@ -30,7 +30,7 @@ print("\nFinding rows by position using iloc, first 5 rows extracted")
 
 print(cereals_Frame.iloc[0:5])
 
-print("\nFindign column by position")
+print("\nFinding column by position")
 print(cereals_Frame.iloc[0, 2:5])
 
 print("\nFiltering cereals whose calories are greather than 100") 
