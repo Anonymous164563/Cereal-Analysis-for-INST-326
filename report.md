@@ -8,7 +8,7 @@ Operations Performed
 
 - Two Boolean filters were created. One for selecting cereals with more than 100 calories, the other for selecting with 100 calories and sugars less than 10 grams. 
 
-- Created a new colun called "caloriesX2" which demosntrated potential to add columns, removing them using the .drop() method.
+- Created a new column called "caloriesX2" which demosntrated potential to add columns, removing them using the .drop() method.
 
 - Groupby method was used to calculate the average cereal rating grouped by each manufacturer
 
