@@ -6,7 +6,7 @@ Operations Performed
 
 - First thing I did was load the data into a pandas DatFrame which enabled me to read the csv file in Python and it's contents. Examining the DatFrame using .head(), .info(),.describe() respectively to understand the overall strucutre of the dataframe, including, its numerical statistics. Accessing data using .loc() and iloc() enabled retrieving single values, extracting row information and specific columns. 
 
-- Two Boolean filters were created. One for selelctign cerals with more than 100 calories, the other for selecting with 100 calories and sugars less than 10 grams. 
+- Two Boolean filters were created. One for selecting cereals with more than 100 calories, the other for selecting with 100 calories and sugars less than 10 grams. 
 
 - Created a new colun called "caloriesX2" which demosntrated potential to add columns, removing them using the .drop() method.
 
