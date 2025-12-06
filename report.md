@@ -28,7 +28,7 @@ Observations
 
 Limitations and Odd Findings 
 
-- Some columns had categorical codes reuqiring a lookup table to fully understand(MFR)> Some cereals had overly high ratings compared to other brands, indicating societal bias towards brand name and recognition
+- Some columns had categorical codes requiring a lookup table to fully understand(MFR)> Some cereals had overly high ratings compared to other brands, indicating societal bias towards brand name and recognition
 
 - Despite a clean dataset, the cereal selection is only representative of the time of creation, not reflective in current market trends.
   
