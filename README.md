@@ -23,7 +23,7 @@ Running the Script
 
 - Make sure you run pip3 install pandas or pip install pandas
 
-- Note: cereal.csv must be in the same location as the python script file to run
+- Note: The data file  must be in the same location as the python script file to run
   
 
 
